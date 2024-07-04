@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi there 👋 sou formado em Análise e Desenvolvimento de Sistemas, atualmente venho desenvolvendo competencias na area de dados, tenho conhecimento em Power BI, Excel Avançado, Python, Já realizei alguns projetos como de RPA, Controle de fluxo de caixa, dashboards interativos.
+
+
 
 <!--
 **zzfelipe396/zzfelipe396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
