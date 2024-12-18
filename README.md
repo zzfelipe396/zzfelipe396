@@ -44,7 +44,6 @@
     title="canva"
     width="30px"   
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
-/>
-
-          
+/><br/>
+<br/>
 #### "Construindo pontes entre dados e decisões inteligentes."📊❤
