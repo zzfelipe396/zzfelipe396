@@ -1,9 +1,10 @@
 ### Olá! Eu sou o Felipe Pacheco 🙋🏻‍♂️
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-pacheco-996378309/)
 
 ![zzfelipe396 GitHub stats](https://github-readme-stats.vercel.app/api?username=zzfelipe396&show_icons=true&theme=highcontrast)
 
-## Tecnologias que eu uso no meu dia
+### 🤖 Linguagens e Tecnologias
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -14,6 +15,4 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </div><br/>
 
-#### Construindo pontes entre dados e decisões inteligentes.
-
-#### Email para contato: felipecpacheco19@gmail.com
+#### "Construindo pontes entre dados e decisões inteligentes."
