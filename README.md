@@ -7,8 +7,7 @@
 ![zzfelipe396 GitHub stats](https://github-readme-stats.vercel.app/api?username=zzfelipe396&show_icons=true&theme=highcontrast)
 
 ### 🤖 Linguagens e Tecnologias
-
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
