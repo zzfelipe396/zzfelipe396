@@ -2,6 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-pacheco-996378309/)
 
+### 📊 Estatísticas
+
 ![zzfelipe396 GitHub stats](https://github-readme-stats.vercel.app/api?username=zzfelipe396&show_icons=true&theme=highcontrast)
 
 ### 🤖 Linguagens e Tecnologias
@@ -15,4 +17,4 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </div><br/>
 
-#### "Construindo pontes entre dados e decisões inteligentes."
+#### "Construindo pontes entre dados e decisões inteligentes."📊❤
