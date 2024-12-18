@@ -40,10 +40,16 @@
 />
 <img 
     align="left" 
+    alt="jupyter" 
+    title="jupyter"
+    width="30px"   
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
+/>
+<img 
+    align="left" 
     alt="canva" 
     title="canva"
     width="30px"   
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
 /><br/>
-<br/>
 #### "Construindo pontes entre dados e decisões inteligentes."📊❤
