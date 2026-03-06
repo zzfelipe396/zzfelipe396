@@ -19,4 +19,4 @@
   <img align="center" alt="Microsoft_Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div><br/>
 
-#### "Construindo pontes entre dados e decisões inteligentes."📊❤
+#### "Construindo pontes entre dados e decisões inteligentes."📊
