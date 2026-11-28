@@ -1,9 +1,9 @@
 # Felipe Pacheco
 
-Data & Backend Developer | Python | Node.js | Data Engineering
+Full Stack Developer | Node.js | Python | Data Engineering
 
 Profissional focado em desenvolvimento de soluções orientadas a dados, automação de processos e construção de APIs escaláveis.  
-Experiência com pipelines de dados, integração entre sistemas e desenvolvimento de aplicações backend utilizando tecnologias modernas do ecossistema Python e JavaScript.
+Experiência com pipelines de dados, integração entre sistemas e desenvolvimento de aplicações backend utilizando tecnologias modernas do ecossistema Node.js e Python.
 
 Busco constantemente evoluir tecnicamente e aplicar boas práticas de engenharia de software para construir soluções robustas, eficientes e escaláveis.
 
